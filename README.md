@@ -12,17 +12,11 @@ I design and build websites for businesses, from the first layout in Figma to la
 
 <p align="center">
 
-<a href="https://aporka.dev/">Portfolio</
-
-a>
+<a href="https://www.aporka.dev/">Portfolio</a>
 
 <a href="mailto:contact@aporka.dev">Email</
 
-<a href="https://www.linkedin.com/in/
-
-apor-k%C3%A1d%C3%A1r-89a346448/">LinkedIn</
-
-a>
+<a href="https://www.linkedin.com/in/apor-k%C3%A1d%C3%A1r-89a346448/">LinkedIn</a>
 
 </p>
 

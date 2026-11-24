@@ -1,73 +1,70 @@
-# Kádár Apor
+<h1 align="center">Kádár Apor</h1>
 
-**Full-stack developer based in Romania.**
+<p align="center">
+  <strong>Full-stack Developer · Romania</strong>
+</p>
 
-```bash
-aporka@dev:~$ whoami
-Kádár Apor
+<p align="center">
+  I design and build websites, interactive experiences and web applications, from the first layout in Figma to launch.
+</p>
 
-aporka@dev:~$ cat profile.json
-```
-
-```json
-{
-  "name": "Kádár Apor",
-  "role": "Full-stack developer",
-  "location": "Romania",
-  "focus": [
-    "Web development",
-    "Creative frontend",
-    "Interactive experiences"
-  ],
-  "website": "https://www.aporka.dev/"
-}
-```
-
-I design and build websites, interactive experiences and web applications, from the first layout in Figma to launch.
-
-[Portfolio](https://www.aporka.dev/) · [LinkedIn](https://www.linkedin.com/in/apor-k%C3%A1d%C3%A1r-89a346448/) · [Email](mailto:contact@aporka.dev)
+<p align="center">
+  <a href="https://www.aporka.dev/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/apor-k%C3%A1d%C3%A1r-89a346448/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@aporka.dev">Email</a>
+</p>
 
 ---
 
-## Currently building
+## Selected work
 
-### [Bookliva](https://bookliva.tech/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kádár Energy</h3>
+      <sub>CLIENT PROJECT</sub>
+      <p>A website redesign for an energy consultancy, featuring an interactive 3D blower door tester.</p>
+      <a href="https://www.kadar-energy.ro/">View project ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Vesper</h3>
+      <sub>CREATIVE DEVELOPMENT</sub>
+      <p>A smart-home studio concept with cinematic opening animations and an interactive experience.</p>
+      <a href="https://vesper.aporka.dev/">View project ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Bookliva</h3>
+      <sub>FULL-STACK APPLICATION</sub>
+      <p>A direct reservation system for independent hotels, with a guest booking engine and staff dashboard.</p>
+      <a href="https://bookliva.tech/">View project ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>please.</h3>
+      <sub>DIGITAL PRODUCTS</sub>
+      <p>A collection of everyday web applications, from QR code generation to PDF editing.</p>
+      <a href="https://please.aporka.dev/">View project ↗</a>
+      ·
+      <a href="https://github.com/aporka-droid/please-dashboard">Source</a>
+    </td>
+  </tr>
+</table>
 
-A direct reservation system for independent hotels, with a guest booking engine, availability management and a staff dashboard.
+## Technologies
 
-## Selected projects
+**Frontend** — React, TypeScript, JavaScript, HTML, CSS, GSAP
 
-### [kadar-energy](https://www.kadar-energy.ro/)
+**Backend** — Supabase, PostgreSQL
 
-A client website redesign for an energy consultancy, featuring an interactive 3D blower door tester.
-
-### [vesper](https://vesper.aporka.dev/)
-
-A smart-home studio concept with cinematic opening animations and an interactive experience.
-
-[Source code](https://github.com/aporka-droid/vesper)
-
-### [please-dashboard](https://please.aporka.dev/)
-
-A collection of everyday web applications, from QR code generation to PDF editing.
-
-[Source code](https://github.com/aporka-droid/please-dashboard)
-
-## Tech stack
-
-```text
-Frontend    React, TypeScript, JavaScript, GSAP
-Backend     Supabase, PostgreSQL
-Design      Figma
-Deployment  Vercel
-Tools       Git, GitHub
-```
+**Design & deployment** — Figma, Vercel, Git
 
 ---
 
-```bash
-aporka@dev:~$ echo $CONTACT
-contact@aporka.dev
-
-aporka@dev:~$ _
-```
+<p align="center">
+  <a href="https://www.aporka.dev/">www.aporka.dev</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@aporka.dev">contact@aporka.dev</a>
+</p>

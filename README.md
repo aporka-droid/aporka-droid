@@ -1,5 +1,9 @@
 <h1 align="left">Kádár Apor</h1>
 
+<p align="center">
+  <img src="./assets/developer-room.gif" alt="Animated pixel art of a cozy nighttime coding workspace" width="360" />
+</p>
+
 Independent full-stack web developer from Romania.
 
 I design and build custom websites and web applications, with a focus on clean UI, creative frontend development and practical full-stack products.
@@ -106,13 +110,3 @@ I design and build custom websites and web applications, with a focus on clean U
 <p align="left">
   <a href="https://www.aporka.dev/">Portfolio</a> · <a href="https://peerlist.io/aporka">Peerlist</a>
 </p>
-
-## <img src="./assets/icons/workspace.svg" width="22" height="22" alt="" /> Pixel Workspace
-
-<p align="center">
-  <img src="./assets/developer-room.gif" alt="Animated pixel art of a cozy nighttime coding workspace" width="480" />
-</p>
-
----
-
-<p align="center">Kádár Apor · Inspired by the creative dev template by @himanshu201031</p>

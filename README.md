@@ -17,20 +17,19 @@ I work across design, frontend development, backend development and deployment.
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img width="49%" src="https://www.gitskins.com/api/section/stats?username=aporka-droid&theme=github-dark&style=aura" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=aporka-droid&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="./assets/stats/profile.svg" alt="GitHub profile overview" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://www.gitskins.com/api/section/stack?username=aporka-droid&theme=github-dark&style=aura" alt="Language Stack" />
+  <img width="100%" src="./assets/stats/streak.svg" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://www.gitskins.com/api/section/highlights?username=aporka-droid&theme=github-dark&style=aura" alt="GitHub Highlights" />
+  <img width="100%" src="./assets/stats/languages.svg" alt="Public repository language distribution" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://www.gitskins.com/api/section/heatmap?username=aporka-droid&theme=github-dark&style=aura" alt="Contribution Activity" />
+  <img width="100%" src="./assets/stats/activity.svg" alt="Contribution activity for the last year" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -101,14 +100,9 @@ I work across design, frontend development, backend development and deployment.
   <a href="mailto:contact@aporka.dev">Email</a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://www.gitskins.com/api/section/heatmap?username=aporka-droid&theme=github-dark&style=snake" alt="Animated contribution snake" />
-</p>
-
 ---
 
 <p align="center">
   Kádár Apor ·
-  Inspired by the creative dev template by @himanshu201031 ·
-  Statistics powered by <a href="https://www.gitskins.com/">GitSkins</a>
+  Inspired by the creative dev template by @himanshu201031
 </p>
